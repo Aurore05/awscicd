@@ -5,7 +5,7 @@ environment {
  BRANCH_NAME = 'main'
  GIT_URL = 'https://github.com/Aurore05/awscicd.git'
  IMAGE_TAG = 'Aurore05/awscicd'
- IMAGE_VERSION = ${BUILD_NUMBER}
+ IMAGE_VERSION = "${BUILD_NUMBER}"
 }
 
 
