@@ -2,7 +2,7 @@ pipeline {
     agent any
 
 environment {
- BRAIN_NAME = 'main'
+ BRANCH_NAME = 'main'
  GIT_URL = 'https://github.com/Aurore05/awscicd.git'
 }
 
