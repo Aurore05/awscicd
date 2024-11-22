@@ -3,7 +3,7 @@ pipeline {
 
 environment {
  BRAIN_NAME = 'main'
- GIT-URL = 'https://github.com/Aurore05/awscicd.git'
+ GIT_URL = 'https://github.com/Aurore05/awscicd.git'
 }
 
 
